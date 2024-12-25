@@ -1,4 +1,4 @@
-from prawf_geirfa.word_utils import collect_words_of_length
+from utils.word_utils import collect_words_of_length
 
 
 def main():
