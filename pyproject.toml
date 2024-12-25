@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "prawf-geirfa"
-version = "0.1.2"
+version = "0.1.3"
 description = ""
 authors = ["Alan Kersaudy <alan.kersaudy@gmail.com>"]
 readme = "README.md"
