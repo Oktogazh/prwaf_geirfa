@@ -59,5 +59,4 @@ jobs:
         with:
           title: Release v${{ steps.version.outputs.VERSION }}
           tag: v${{ steps.version.outputs.VERSION }}
-          draft: false
           prerelease: false
